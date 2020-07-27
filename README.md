@@ -1,3 +1,5 @@
+This fork uses the latest versions of deps.
+
 This is an alternative native integration of [Serde](https://serde.rs/) with [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen).
 
 ## Why
